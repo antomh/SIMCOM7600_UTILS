@@ -1,0 +1,4 @@
+# SDK_VERSION_VIEWER
+./sdk-version-viewer/.vscode/
+./sdk-version-viewer/bin/
+./sdk-version-viewer/obj/
